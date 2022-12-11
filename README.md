@@ -79,10 +79,10 @@ text in an image. Then the image can be encrypted and sent to the receiver.
 
 ## ➢ Flow Chart
 
-```
+
 <img width="1216" alt="flowchart" src="https://user-images.githubusercontent.com/72877934/206921867-c4108e4f-e8dc-4e1f-a06d-9e894efda59a.png">
 
-```
+
 ## System Design
 
 ```
